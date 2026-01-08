@@ -1,3 +1,12 @@
+# 🛡️ Panic Rhythm Engine
+### *Detecting Adrenaline-Linked Tremors for Autonomous Women's Safety*
+---<p align="left">
+  <img src="https://img.shields.io/badge/Project_Status-Experimental-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Bio--Analytics-brightgreen?style=for-the-badge&logo=microscope&logoColor=white" />
+  <img src="https://img.shields.io/badge/Safety_Trigger-Autonomous-orange?style=for-the-badge" />
+</p>
+
 # 🧬 Panic Rhythm Engine 🛡️
 
 **Panic Rhythm** is a novel safety algorithm designed to bridge the gap between human physiology and mobile technology. 
