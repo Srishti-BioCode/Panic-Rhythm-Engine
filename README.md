@@ -21,6 +21,8 @@ In extreme danger, the human body undergoes a 'Fight or Flight' response, releas
 
 ### 🧪 Academic Background
 Developed by **Srishti**, a BS-MS student at **IIT Patna** (CS & Data Analytics) and BSc Biology student at **Lucknow University**.
+
+
 #women-safety
 #safety-tech
 #emergency-response
